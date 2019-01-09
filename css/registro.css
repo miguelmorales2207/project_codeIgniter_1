@@ -1,0 +1,147 @@
+.n{
+  background: #172041; 
+  height: 40px;
+  width: 100%;
+}
+
+.one_div{
+  padding: 0px 0px 0px 545px;  
+}
+
+.n a{
+  color: aliceblue;
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.a_one{
+  padding: 9px 20px 9px 20px;
+  margin: 0px 0px 0px 50px;
+}
+
+.a_two{
+  padding: 9px 20px 9px 20px;    
+  margin: 0px 0px 0px 50px;
+}
+
+.a_three{
+  padding: 9px 20px 9px 20px;
+  margin: 0px 0px 0px 50px;
+}
+
+.n a:hover{
+  color: #ebeb10;
+  background: #7c7575;
+    border-radius: 4px;
+}
+                       
+.n_dos{
+  background: rgb(242, 237, 237);
+  height: 40px; 
+  width: 100%;
+}
+
+.two_div{
+  padding: 0px 0px 0px 0px;
+  margin: -60px 0px 0px 570px; 
+}
+
+.two_div a:hover{
+  background: #000;
+  color: aliceblue;
+  border-radius: 4px;
+}
+
+.n_dos a{
+  color: black;
+  font-size: 16px;
+  line-height: 40px;
+  font-family: sans-serif;
+}
+
+.a_four{
+  margin: 0px 0px 0px 30px;
+  padding: 11px 7px 11px 7px;
+}
+
+.a_five{
+  margin: 0px 0px 0px 30px;
+  padding: 11px 7px 11px 7px;
+}
+
+.a_six{
+  margin: 0px 0px 0px 30px;
+  padding: 11px 7px 11px 7px;
+}
+
+.a_seven{
+  margin: 0px 0px 0px 30px;
+  padding: 21px 10px 22px 10px;
+  background: yellow;
+}
+
+.hdos_one{
+  padding: 29px 0px 10px 610px;  
+}
+
+.three_div{
+  padding: 5px 0px 0px 521px;         
+}
+
+.i_one{
+  width: 300px;
+  height: 40px;
+}
+
+.i_two{
+  width: 300px;
+  height: 40px;
+}
+
+.i_four{
+  width: 300px;
+  height: 40px;
+}
+
+.i_three{
+  width: 300px;
+  padding: 10px 0px 10px 0px;       
+  margin: 5px 0px 0px 0px;   
+  color: black;                
+  background: #ef8912; 
+  border-radius: 5px;
+}
+
+.hr_one{
+  width: 125px;   
+  height: 2px;                                                    
+  margin: 10px 50px 0px 0px;                 
+  float: left;
+  background: black;
+}
+
+.hr_two{
+  width: 125px;                                 
+  height: 2px;
+  margin: 10px 0px 20px 0px;   
+  background: black;
+}
+
+.a_eight{
+  padding: 0px 0px 0px 70px;                               
+}
+
+.a_night{
+  padding: 0px 0px 0px 10px; 
+}
+
+footer{
+  background: #172041;
+  height: 70px;
+  color: aliceblue;
+  line-height: 70px;
+  width: 100%;
+  float: left;
+  margin: 87px 0px 0px 0px;
+}

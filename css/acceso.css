@@ -1,0 +1,428 @@
+.n{
+  background: #172041; 
+  height: 40px;
+  width: 100%;   
+}
+
+.one_div{
+  padding: 0px 0px 0px 545px;   
+}
+
+.n a{
+  color: aliceblue;
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.a_one{
+  padding: 9px 20px 9px 20px;
+  margin: 0px 0px 0px 50px;
+}
+
+.a_two{
+  padding: 9px 20px 9px 20px;    
+  margin: 0px 0px 0px 50px;
+}
+
+.a_three{
+  padding: 9px 20px 9px 20px;
+  margin: 0px 0px 0px 50px;
+}
+
+.n a:hover{
+  color: #ebeb10;
+  background: #7c7575;
+  border-radius: 4px;
+}
+                       
+.n_dos{
+  background: rgb(242, 237, 237);
+  height: 40px; 
+  width: 100%;
+}
+
+.two_div{
+  margin: -60px 0px 0px 570px; 
+}
+
+.two_div a:hover{
+  background: #000;
+  color: aliceblue;
+  border-radius: 4px;
+}
+
+.n_dos a{
+  color: black;
+  font-size: 16px;
+  line-height: 40px;  
+  font-family: sans-serif;
+}
+
+.a_four{
+  margin: 0px 0px 0px 30px;
+  padding: 11px 7px 11px 7px;
+}
+
+.a_five{
+  margin: 0px 0px 0px 30px;
+  padding: 11px 7px 11px 7px;
+}
+
+.a_six{
+  margin: 0px 0px 0px 30px;
+  padding: 11px 7px 11px 7px;
+}
+
+.a_seven{
+  margin: 0px 0px 0px 30px;
+  padding: 21px 10px 22px 10px;
+  background: yellow;
+}
+
+.hdos_one{
+  padding: 49px 0px 10px 100px;  
+}
+
+.i_one{
+  width: 300px; 
+  height: 40px;
+}
+
+.i_two{
+  width: 300px; 
+  height: 40px;
+}
+
+.i_three{
+  width: 300px;
+  padding: 10px 0px 10px 0px;       
+  margin: 5px 0px 0px 0px;   
+  color: black;                
+  background: #ef8912;                 
+}
+
+.hr_one{
+  width: 125px;   
+  height: 2px;                                                    
+  margin: 10px 50px 0px 0px;                 
+  float: left;
+  background: black;
+}
+
+.hr_two{
+  width: 125px;                                 
+  height: 2px;
+  margin: 10px 0px 20px 0px;   
+  background: black;
+}
+
+section{
+  margin: -220px 0px 273px 0px;
+}
+
+.hdos_one{
+  padding: 0px 0px 10px 100px;
+}
+
+#hora{
+  padding: 0px 0px 20px 100px;
+}
+
+.n_tres{
+  background: #a01313;
+  width: 124px;
+  height: 50px;
+  margin: 0px 0px 0px 100px; 
+  float: left;
+  border-radius: 4px;
+}
+
+.n_tres a{
+  padding: 17px 20px 17px 20px;                   
+  line-height: 50px; 
+  color: black;
+  margin: 0px 0px 0px 0px;
+}
+
+.n_tres a:hover{
+  background: #bf1313;      
+  color: aliceblue;       
+  border-radius: 4px;
+}
+
+.three_div{
+  margin: 30px 0px 0px 30px;     
+}
+
+.n_cuatro{
+  background: #f0f000;
+  width: 146px;
+  height: 70px;
+  margin: 20px 0px 0px 924px;
+  border-radius: 4px;
+}
+
+.n_cuatro a{
+  padding: 27px 9px 28px 9px;
+  line-height: 69px;
+  margin: 0px 0px 0px 5px;
+  color: black;
+}
+
+.n_cuatro a:hover{
+  background: #fdfd00;      
+  color: red;
+  border-radius: 4px;
+}
+
+.n_cinco{
+  background: #f0f000;
+  width: 146px;
+  height: 70px;
+  margin: 15px 0px 0px 924px;
+  border-radius: 4px;
+}
+
+.n_cinco a{
+  padding: 27px 18px 28px 18px;
+  line-height: 69px;
+  margin: 0px 0px 0px 7px;
+  color: black;
+}
+
+.n_cinco a:hover{
+  background: #fdfd00;      
+  color: red;
+  border-radius: 4px;
+}
+
+.n_six{
+  background: #f0f000;
+  width: 146px;
+  height: 70px;
+  margin: 15px 0px 0px 924px;
+  border-radius: 4px;
+}
+
+.n_six a{
+  padding: 27px 15px 28px 15px;
+  line-height: 69px;
+  margin: 0px 0px 0px 5px;
+  color: black;
+}
+
+.n_six a:hover{
+  background: #fdfd00;      
+  color: red;
+  border-radius: 4px;
+}
+
+#desp{
+  float: left;
+  margin: -130px 0px 0px 290px;
+  background: #8d0010;
+  width: 300px;
+  height: 350px;
+  border-radius: 5px;
+}
+
+.h_cinco{
+  margin: 5px 0px 0px 75px;
+  color: aliceblue;
+}
+
+#desp h4{
+  color: black;
+}
+
+#despf{
+  margin: 10px 0px 0px 60px;
+}
+
+#desp1{
+  float: left;
+  margin: 0px 0px 0px 30px;
+}
+
+#desp3{
+  float: left;
+  margin: -100px 0px 0px 300px;
+  background: #8d0010;
+  width: 300px;
+  height: 130px;
+  border-radius: 5px;
+}
+
+#desp3 h3 {
+  color: aliceblue;
+  margin: 10px 0px 0px 75px;
+}
+
+#desp3 h4 {
+  color: black;
+}
+
+#desp3 form{
+    margin: -20px 0px 0px 0px;
+}
+
+#desp3 label{
+    color: black;
+    margin: 35px 0px 0px 6px;
+}
+
+.i_one{
+  margin: -26px 0px 0px 90px;
+  width: 200px;
+  height: 25px;
+  float: left;
+}
+
+.form{
+  border-radius: 5px;
+  height: 400px;
+  width: 400px;
+  background: #8d0010;
+  color: aliceblue;
+  margin: -200px 0px 0px 260px;
+}
+
+#desp2{
+  float: left;
+  margin: -220px 0px 70px 240px;
+  background: #8d0010;
+  width: 400px;
+  height: 500px;
+  border-radius: 5px;
+}
+
+#desp2 h3 {
+  color: aliceblue;
+  margin: 10px 0px 0px 65px;
+}
+
+#desp2 h4{
+  color: black;
+}
+
+#despdosf{
+  margin: -20px 0px 0px 29px;
+  
+}
+
+#desp2 label{
+  color: black;
+  padding: 0px 0px 0px 0px;
+  margin: 30px 0px 0px 10px;    
+}
+
+#desp2 select {
+  margin: 0px 0px 0px 20px;
+}
+
+#desp2 input{
+  padding: 0px 0px 0px 5px;
+}
+
+.i_i {
+  margin: 0px 0px 0px 98px;
+}
+
+.i_uno{
+  margin: 0px 0px 0px 95px;
+}
+
+.i_dos{
+  margin: 0px 0px 0px 86px;
+}
+
+.i_tres{
+  margin: 0px 0px 0px 110px;
+}
+
+.i_cuatro{
+  margin: 0px 0px 0px 90px;
+}
+
+.i_cinco{
+  margin: 0px 0px 0px 95px;
+}
+
+.i_seis{
+    margin: 0px 0px 0px 85px;
+}
+
+#lista{
+    width: 1000px;
+    margin: 40px 0px 0px -100px;
+    float:right;
+    color: black;
+}
+
+#lista1{
+    width: 610px;
+    margin: 10px 0px 0px -200px;
+    float: left;
+    color: #122b40;
+}
+
+.h5{
+  margin: 0px 0px 10px 30px;
+}
+
+.isix{
+  width: 60px;
+}
+
+#btn{
+  float:left;
+  margin: -46px 0px 0px 115px;  
+  width: 60px;
+}
+
+#btn2{
+  float: left;
+  margin: -46px 0px 0px 210px;  
+  width: 60px;
+}
+
+#btn1{
+  margin: 20px 0px 0px 70px;
+  width: 60px;
+}
+
+.btn3{
+  margin: 30px 0px 0px 70px;
+  width: 60px;
+  float: left;
+}
+
+.btn4{
+  margin: 10px 0px 0px 60px;  
+  width: 60px;
+  float: left;
+}
+
+#btn5{
+  margin: 20px 0px 0px 50px;
+  width: 70px;
+  float: left;
+}
+
+.btn6{
+  margin: -26px 0px 0px 180px;  
+  width: 70px;
+  float: left;
+}
+
+footer{
+  background: #172041; 
+  height: 70px;
+  color: aliceblue;
+  line-height: 70px;
+  width: 100%;
+  padding: -60px 0px 0px 0px;
+  margin:-42px 0px 0px 0px; 
+  float: right;
+}
